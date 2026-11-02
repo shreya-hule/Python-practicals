@@ -1,0 +1,177 @@
+##### python utility.py (scripted test session) #####
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 5
+
+--- Summary ---
+total_calculations: 0
+last_result: No calculations yet
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 1
+First number: 2
+Second number: 3
+Result (addition): 5.00
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 2
+First number: 10
+Second number: 4
+Result (subtraction): 6.00
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 3
+First number: 6
+Second number: 7
+Result (multiplication): 42.00
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 4
+First number: 8
+Second number: 2
+Result (division): 4.00
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 4
+First number: 5
+Second number: 0
+Error: Cannot divide by zero.
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 9
+Invalid menu choice. Try again.
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: abc
+Invalid menu choice. Try again.
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 1
+First number: x
+Invalid input. Enter a numeric value.
+First number: 4
+Second number: y
+Invalid input. Enter a numeric value.
+Second number: 6
+Result (addition): 10.00
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 6
+First number: 10
+Second number: 20
+Third number: 30
+Result (average): 20.00
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 5
+
+--- Summary ---
+total_calculations: 6
+last_result: 20.0
+
+=== Utility Calculator ===
+1. Add numbers
+2. Subtract
+3. Multiply
+4. Divide
+5. Show summary
+6. Average of three numbers
+0. Exit
+Choose an option: 0
+Goodbye!
+
+##### python extensions.py #####
+--- Task B: grade_from_marks ---
+85 out of 100 -> A
+42 out of 50  -> A
+Out-of-range marks -> marks must be between 0 and 100.
+
+--- Task C: scope ---
+NameError: name 'secret' is not defined
+
+--- Task D: *args ---
+add(2, 4, 6, 8) = 20
+
+--- Task E: **kwargs ---
+
+--- Summary ---
+student: Student A
+practical: 3
+status: Complete
